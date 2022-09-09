@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "I05Tema01-Introduccion/1.0.0": {
+        "runtime": {
+          "I05Tema01-Introduccion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "I05Tema01-Introduccion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
