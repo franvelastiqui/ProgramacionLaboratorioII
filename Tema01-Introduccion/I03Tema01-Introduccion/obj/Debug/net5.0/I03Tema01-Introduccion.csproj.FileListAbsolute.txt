@@ -1,0 +1,16 @@
+C:\Users\Franco\Documents\TUP\ProgramacionLaboratorioII\Tema01-Introduccion\I03Tema01-Introduccion\bin\Debug\net5.0\I03Tema01-Introduccion.exe
+C:\Users\Franco\Documents\TUP\ProgramacionLaboratorioII\Tema01-Introduccion\I03Tema01-Introduccion\bin\Debug\net5.0\I03Tema01-Introduccion.deps.json
+C:\Users\Franco\Documents\TUP\ProgramacionLaboratorioII\Tema01-Introduccion\I03Tema01-Introduccion\bin\Debug\net5.0\I03Tema01-Introduccion.runtimeconfig.json
+C:\Users\Franco\Documents\TUP\ProgramacionLaboratorioII\Tema01-Introduccion\I03Tema01-Introduccion\bin\Debug\net5.0\I03Tema01-Introduccion.runtimeconfig.dev.json
+C:\Users\Franco\Documents\TUP\ProgramacionLaboratorioII\Tema01-Introduccion\I03Tema01-Introduccion\bin\Debug\net5.0\I03Tema01-Introduccion.dll
+C:\Users\Franco\Documents\TUP\ProgramacionLaboratorioII\Tema01-Introduccion\I03Tema01-Introduccion\bin\Debug\net5.0\ref\I03Tema01-Introduccion.dll
+C:\Users\Franco\Documents\TUP\ProgramacionLaboratorioII\Tema01-Introduccion\I03Tema01-Introduccion\bin\Debug\net5.0\I03Tema01-Introduccion.pdb
+C:\Users\Franco\Documents\TUP\ProgramacionLaboratorioII\Tema01-Introduccion\I03Tema01-Introduccion\obj\Debug\net5.0\I03Tema01-Introduccion.csproj.AssemblyReference.cache
+C:\Users\Franco\Documents\TUP\ProgramacionLaboratorioII\Tema01-Introduccion\I03Tema01-Introduccion\obj\Debug\net5.0\I03Tema01-Introduccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\TUP\ProgramacionLaboratorioII\Tema01-Introduccion\I03Tema01-Introduccion\obj\Debug\net5.0\I03Tema01-Introduccion.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\TUP\ProgramacionLaboratorioII\Tema01-Introduccion\I03Tema01-Introduccion\obj\Debug\net5.0\I03Tema01-Introduccion.AssemblyInfo.cs
+C:\Users\Franco\Documents\TUP\ProgramacionLaboratorioII\Tema01-Introduccion\I03Tema01-Introduccion\obj\Debug\net5.0\I03Tema01-Introduccion.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\TUP\ProgramacionLaboratorioII\Tema01-Introduccion\I03Tema01-Introduccion\obj\Debug\net5.0\I03Tema01-Introduccion.dll
+C:\Users\Franco\Documents\TUP\ProgramacionLaboratorioII\Tema01-Introduccion\I03Tema01-Introduccion\obj\Debug\net5.0\ref\I03Tema01-Introduccion.dll
+C:\Users\Franco\Documents\TUP\ProgramacionLaboratorioII\Tema01-Introduccion\I03Tema01-Introduccion\obj\Debug\net5.0\I03Tema01-Introduccion.pdb
+C:\Users\Franco\Documents\TUP\ProgramacionLaboratorioII\Tema01-Introduccion\I03Tema01-Introduccion\obj\Debug\net5.0\I03Tema01-Introduccion.genruntimeconfig.cache
