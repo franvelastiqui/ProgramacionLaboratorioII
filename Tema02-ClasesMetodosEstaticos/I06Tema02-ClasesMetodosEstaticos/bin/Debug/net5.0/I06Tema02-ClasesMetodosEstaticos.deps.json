@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "I06Tema02-ClasesMetodosEstaticos/1.0.0": {
+        "runtime": {
+          "I06Tema02-ClasesMetodosEstaticos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "I06Tema02-ClasesMetodosEstaticos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
