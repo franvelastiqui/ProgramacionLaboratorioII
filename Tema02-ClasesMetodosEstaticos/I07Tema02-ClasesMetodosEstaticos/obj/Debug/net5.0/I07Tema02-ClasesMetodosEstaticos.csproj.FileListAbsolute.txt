@@ -1,0 +1,15 @@
+C:\Users\Franco\Documents\TUP\ProgramacionLaboratorioII\Tema02-ClasesMetodosEstaticos\I07Tema02-ClasesMetodosEstaticos\bin\Debug\net5.0\I07Tema02-ClasesMetodosEstaticos.exe
+C:\Users\Franco\Documents\TUP\ProgramacionLaboratorioII\Tema02-ClasesMetodosEstaticos\I07Tema02-ClasesMetodosEstaticos\bin\Debug\net5.0\I07Tema02-ClasesMetodosEstaticos.deps.json
+C:\Users\Franco\Documents\TUP\ProgramacionLaboratorioII\Tema02-ClasesMetodosEstaticos\I07Tema02-ClasesMetodosEstaticos\bin\Debug\net5.0\I07Tema02-ClasesMetodosEstaticos.runtimeconfig.json
+C:\Users\Franco\Documents\TUP\ProgramacionLaboratorioII\Tema02-ClasesMetodosEstaticos\I07Tema02-ClasesMetodosEstaticos\bin\Debug\net5.0\I07Tema02-ClasesMetodosEstaticos.runtimeconfig.dev.json
+C:\Users\Franco\Documents\TUP\ProgramacionLaboratorioII\Tema02-ClasesMetodosEstaticos\I07Tema02-ClasesMetodosEstaticos\bin\Debug\net5.0\I07Tema02-ClasesMetodosEstaticos.dll
+C:\Users\Franco\Documents\TUP\ProgramacionLaboratorioII\Tema02-ClasesMetodosEstaticos\I07Tema02-ClasesMetodosEstaticos\bin\Debug\net5.0\ref\I07Tema02-ClasesMetodosEstaticos.dll
+C:\Users\Franco\Documents\TUP\ProgramacionLaboratorioII\Tema02-ClasesMetodosEstaticos\I07Tema02-ClasesMetodosEstaticos\bin\Debug\net5.0\I07Tema02-ClasesMetodosEstaticos.pdb
+C:\Users\Franco\Documents\TUP\ProgramacionLaboratorioII\Tema02-ClasesMetodosEstaticos\I07Tema02-ClasesMetodosEstaticos\obj\Debug\net5.0\I07Tema02-ClasesMetodosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Documents\TUP\ProgramacionLaboratorioII\Tema02-ClasesMetodosEstaticos\I07Tema02-ClasesMetodosEstaticos\obj\Debug\net5.0\I07Tema02-ClasesMetodosEstaticos.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\TUP\ProgramacionLaboratorioII\Tema02-ClasesMetodosEstaticos\I07Tema02-ClasesMetodosEstaticos\obj\Debug\net5.0\I07Tema02-ClasesMetodosEstaticos.AssemblyInfo.cs
+C:\Users\Franco\Documents\TUP\ProgramacionLaboratorioII\Tema02-ClasesMetodosEstaticos\I07Tema02-ClasesMetodosEstaticos\obj\Debug\net5.0\I07Tema02-ClasesMetodosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Documents\TUP\ProgramacionLaboratorioII\Tema02-ClasesMetodosEstaticos\I07Tema02-ClasesMetodosEstaticos\obj\Debug\net5.0\I07Tema02-ClasesMetodosEstaticos.dll
+C:\Users\Franco\Documents\TUP\ProgramacionLaboratorioII\Tema02-ClasesMetodosEstaticos\I07Tema02-ClasesMetodosEstaticos\obj\Debug\net5.0\ref\I07Tema02-ClasesMetodosEstaticos.dll
+C:\Users\Franco\Documents\TUP\ProgramacionLaboratorioII\Tema02-ClasesMetodosEstaticos\I07Tema02-ClasesMetodosEstaticos\obj\Debug\net5.0\I07Tema02-ClasesMetodosEstaticos.pdb
+C:\Users\Franco\Documents\TUP\ProgramacionLaboratorioII\Tema02-ClasesMetodosEstaticos\I07Tema02-ClasesMetodosEstaticos\obj\Debug\net5.0\I07Tema02-ClasesMetodosEstaticos.genruntimeconfig.cache
